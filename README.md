@@ -10,7 +10,8 @@ This is a Flipkart clone project made using HTML and CSS
 - SImple and clean design
 
 ## Screenshot
-  ![Flipkart Homepage](screenshots/Flipkart_homepage.png)
+  [Flipkart Homepage](screenshots/Flipkart_homepage.png)
+
 ## Technologies Used
 - HTML
 - CSS
